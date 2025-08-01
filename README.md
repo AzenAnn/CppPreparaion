@@ -1,0 +1,2 @@
+# CppPreparaion
+一个简单的快速配置vscode算法竞赛环境教程
